@@ -1,6 +1,6 @@
 module.exports = {
-    extends: ["eslint-config-codely"],
-    parserOptions: {
-        project: ["./tsconfig.json"]
-    }
-}
+  extends: ["eslint-config-codely"],
+  parserOptions: {
+    project: ["./tsconfig.json"],
+  },
+};
