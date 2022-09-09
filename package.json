@@ -2,5 +2,8 @@
   "name": "@xetxeberria/typescript-skeleton",
   "version": "1.0.0",
   "author": "Xabi Etxeberria <xabier.etxeberria93@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
 }
