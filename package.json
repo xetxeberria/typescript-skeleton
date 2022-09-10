@@ -4,7 +4,8 @@
   "author": "Xabi Etxeberria <xabier.etxeberria93@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "build": "tsc"
   },
   "devDependencies": {
     "eslint-config-codely": "^1.1.0",
